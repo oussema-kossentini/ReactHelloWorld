@@ -1,0 +1,113 @@
+/* Styles généraux pour l'application */
+.App {
+  text-align: center;
+}
+
+/* Styles pour les textes avec la classe .text */
+.text {
+  text-align: center;
+  color: blue;
+}
+
+/* Styles pour le conteneur des cartes */
+.cards-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+/* Styles pour le logo de l'application */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+/* Animation du logo */
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* Styles pour l'en-tête de l'application */
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* Styles pour les liens dans l'application */
+.App-link {
+  color: #61dafb;
+}
+
+/* Animation de rotation pour le logo */
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}/* Styles généraux pour l'application */
+.App {
+  text-align: center;
+}
+
+/* Styles pour les textes avec la classe .text */
+.text {
+  text-align: center;
+  color: blue;
+}
+
+/* Styles pour le conteneur des cartes */
+.cards-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+/* Styles pour le logo de l'application */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+/* Animation du logo */
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* Styles pour l'en-tête de l'application */
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* Styles pour les liens dans l'application */
+.App-link {
+  color: #61dafb;
+}
+
+/* Animation de rotation pour le logo */
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
